@@ -36,7 +36,7 @@ Experimente o GuiIA hoje mesmo e embarque em uma jornada personalizada e repleta
 
 ## Como Usar
 
-1. **Acesse o Colab:** 
+1. **Acesse o Colab:** https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667
 2. **Configuração:** Adicione sua API_KEY na barra lateral esquerda do Colab, silalizada com o icone de uma chave (![image](https://github.com/Juliaocmc/GuiIA/assets/70494091/660d4db5-b5c6-4a4e-a596-d3e9cc7ce9bc)
 ). adicione ao `Nome: API_KEY` e `Valor: Sua api key`.
 3. **Execução:** Pressione o botão de play na item Inicializar e depois abra o item Executar GuiIA e execute.
