@@ -1,7 +1,7 @@
 # GuiIA: Seu Guia de Viagem com IA 
 
 O GuiIA é uma inovadora Inteligência Artificial para transformar a maneira como você planeja e explora seus destinos de viagem. Diga adeus aos guias de viagem genéricos e abrace a era da personalização e interatividade com o GuiIA!
-Transforme a maneira como você viaja e descubra o poder da IA para tornar suas aventuras ainda mais inesquecíveis. Experimente o GuiIA hoje mesmo e embarque em uma jornada personalizada e repleta de informações!
+Experimente o GuiIA hoje mesmo e embarque em uma jornada personalizada e repleta de informações!
 
 ## Funcionalidades
 
@@ -37,5 +37,8 @@ Transforme a maneira como você viaja e descubra o poder da IA para tornar suas 
 ## Como Usar
 
 1. **Acesse o Colab:** 
-2. **Configuração:** Adicione sua API_KEY na barra lateral esquerda do Colab, silalizada com o icone de uma chave (). adicione ao `Nome: API_KEY` e `Valor: Sua api key`.
-3. **Execução:** Pressione o botão de play () para executar o scripty
+2. **Configuração:** Adicione sua API_KEY na barra lateral esquerda do Colab, silalizada com o icone de uma chave (![image](https://github.com/Juliaocmc/GuiIA/assets/70494091/660d4db5-b5c6-4a4e-a596-d3e9cc7ce9bc)
+). adicione ao `Nome: API_KEY` e `Valor: Sua api key`.
+3. **Execução:** Pressione o botão de play na item Inicializar e depois abra o item Executar GuiIA e execute.
+![image](https://github.com/Juliaocmc/GuiIA/assets/70494091/55eaaa20-c4b6-4f66-961b-9a8e81b11863)
+
